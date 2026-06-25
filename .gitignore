@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Configuration (user-specific)
+config.json
+
+# Generated reports
+dataset_report.csv
+processing_log.txt
+
+# Output dataset
+output/
+
+# Windows
+Thumbs.db
+Desktop.ini
